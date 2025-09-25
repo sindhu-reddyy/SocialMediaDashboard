@@ -34,12 +34,6 @@ A stylish, modular JavaFX-based Social Media Dashboard featuring login/signup au
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your UI here once hosted (optional)
-
----
-
 ## 🗂️ Project Structure
 
 SocialMediaDashboard/
